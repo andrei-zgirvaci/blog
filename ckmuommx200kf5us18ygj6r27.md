@@ -1,4 +1,4 @@
-## How to write a strong Software Engineering Résumé in 2021! 📝
+## How to write a strong Software Engineering Résumé! 📝
 
 In one of my [previous posts](https://blog.andreizgirvaci.com/4-year-startup-failed-going-freelance), I have mentioned that I will touch upon how to create a résumé for your next job and today I am gonna guide you through how to do just that! 😁
 
