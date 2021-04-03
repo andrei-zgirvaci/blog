@@ -62,7 +62,7 @@ Here are some verbs so you can use to make your accomplishments look different:
 
 ![verbs.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1617024259549/d78TGqN1q.png)
 
-Also, you noticed probably that I added **Levered knowledge in ...**. This is basically telling what technologies you gained knowledge in while working at this company. It will also expand the keywords on your résumé, which will increase your chances to get through the [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system) scan. WIN-WIN 😁
+Also, you noticed probably that I added **Leveraged knowledge in ...**. This is basically telling what technologies you gained knowledge in while working at this company. It will also expand the keywords on your résumé, which will increase your chances to get through the [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system) scan. WIN-WIN 😁
 
 # Education
 
