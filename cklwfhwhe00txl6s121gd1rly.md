@@ -61,7 +61,7 @@ Next step was to add some SEO meta tags, here is a list if you would like to use
   key="og_description"
 />
 <meta
-  property="og:image:secure_url"
+  property="og:image"
   content={META.image}
   key="og_image"
 />
