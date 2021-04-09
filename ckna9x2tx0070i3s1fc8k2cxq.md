@@ -8,6 +8,8 @@ Also, today I upgraded my app to `react-hook-form` from [v6 to v7](https://react
 
 The app is almost done and what's left to do is to just hook the front-end with the back-end, hopefully, that is not gonna take too much time...
 
+Also, this weekend I am planning to record a new podcast episode of [The Anxious Developer](https://apple.co/39yOnvz), it should be released next Monday so be sure to [subscribe](https://apple.co/39yOnvz) on Apple Podcasts not to miss it! 😁
+
 That's it for today folks! See you next Monday! Love you all! ❤️
 
 ---
