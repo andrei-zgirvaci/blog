@@ -1,4 +1,4 @@
-## BlogLog #5
+## Getting into investing... 💸
 
 Recently I have been thinking to invest a part of my salary into some stocks and crypto.
 
