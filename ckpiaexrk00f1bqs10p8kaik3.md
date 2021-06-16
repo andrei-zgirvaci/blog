@@ -1,4 +1,4 @@
-## BlogLog #1
+## What I learned about React Native Performance 📱
 
 Today, I decided to start a **BlogLog**. It's basically the same thing I was doing before, but, instead of me having to come up with an original title for small articles, I will just write *BlogLog #{number}*. 😄
 
