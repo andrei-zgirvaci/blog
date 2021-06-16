@@ -1,4 +1,4 @@
-## BlogLog #2
+## My experience with Chalestenics so far... 💪
 
 # Life
 
