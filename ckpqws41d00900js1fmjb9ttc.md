@@ -6,7 +6,7 @@ Recently, I have been trying to animate a [dynamic header like AirBnb](https://b
 
 While I have successfully managed to make it work on iOS, on Android it turned out to be quite laggy and something didn't seem right. I described more in detail the bug [here](https://blog.andreizgirvaci.com/react-native-reanimated-is-being-a-turd-on-android).
 
-# Solution Part 1
+# Solution (Part 1)
 
 Luckily, I managed to fix it today following this tutorial:
 
@@ -16,7 +16,7 @@ Basically, the fix was to make the header `absolute`, but at the same time, I al
 
 Instead, I had to use `paddingTop: HEADER_HEIGHT`, but now another problem arises, if you have a pull to refresh feature on your `FlatList` it will be hidden by the header on both iOS and Android.
 
-# Solution Part 2
+# Solution (Part 2)
 
 To fix that, you need to add a few more props to the `FlatList` and make sure `paddingTop` is only applied on Android:
 
